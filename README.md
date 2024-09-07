@@ -1,5 +1,8 @@
-### Hi there 👋
-
+# 👋🏻 Hey
+<div align="center">
+	<br>
+	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
+</div>
 
 **Killer-89757/killer-89757** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,6 +15,8 @@
   <img src="https://img.shields.io/badge/Os-Linux-a80030"/>
 </p>
 
+<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="30%" />
+
 Here are some ideas to get you started:
 
 - 💻 I ~like~ **love** coding
@@ -19,6 +24,13 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning python and vue.
 - 👯 I’m looking to collaborate on opensource and group projects.
 - 💬 Ask me about `16601203140@163.com`
+- Taking online courses about Data Science and Machine Learning
+
+### 💡 Goals for 2020:
+- Finish my first app on android and publish it on play store
+- Learn the basics of JavaScript, TypeScript
+- Become skilled in python
+- Grow as a person
 
 ## Github Overview
 
