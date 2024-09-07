@@ -35,8 +35,8 @@ Here are some ideas to get you started:
 ## Github Overview
 
 <p>
-    <img width="43%" alt="killer-89757's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=killer-89757&hide=jupyter%20notebook&show_icons=true&layout=compact&hide_border=true"/>
-    <img width="55%" align="right" alt="killer-89757's github stats" src="https://github-readme-stats.vercel.app/api?username=killer-89757&show_icons=true&hide_border=true"/>
+    <img width="43%" alt="killer-89757's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=killer-89757&hide=jupyter%20notebook&show_icons=true&layout=compact&hide_border=true">
+    <img width="55%" alt="killer-89757's github stats" src="https://github-readme-stats.vercel.app/api?username=killer-89757&show_icons=true&hide_border=true"/>
 </p>
 
 ### 🛠 技术栈 | Tech Stack
